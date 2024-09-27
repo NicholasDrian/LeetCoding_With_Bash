@@ -1,3 +1,4 @@
+#!/bin/bash
 num=$1
 len=${#num}
 p1=0
